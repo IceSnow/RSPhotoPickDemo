@@ -23,7 +23,7 @@ PortraitPicker类的引用Demo
 
 ## Error
 
-1. build之后，报错以下错误, 请检查[注意点 - 检查引用](#prudent2)说明
+1. build之后，报错以下错误, 请检查[注意点 - 检查引用](#2-引用检查)说明
 
 ``` 
 *** Terminating app due to uncaught exception 'NSInvalidArgumentException', reason: '*** -[NSBundle initWithURL:]: nil URL argument'
