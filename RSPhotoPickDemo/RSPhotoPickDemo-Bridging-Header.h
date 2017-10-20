@@ -3,3 +3,4 @@
 //
 
 #import "ImagePickerController.h"
+#import "ImageManager.h"

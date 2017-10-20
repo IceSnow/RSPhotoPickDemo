@@ -12,6 +12,7 @@
 		5A17A84E1F998D1D0025B4C5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A17A84C1F998D1D0025B4C5 /* Main.storyboard */; };
 		5A17A8501F998D1D0025B4C5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A17A84F1F998D1D0025B4C5 /* Assets.xcassets */; };
 		5A17A8531F998D1D0025B4C5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A17A8511F998D1D0025B4C5 /* LaunchScreen.storyboard */; };
+		5AEDB1531F99B9AC007043E6 /* SVProgressHUD.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 5AEDB13A1F99AADC007043E6 /* SVProgressHUD.bundle */; };
 		5AF247911F99982E00EBE716 /* Photos.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AF247901F99982E00EBE716 /* Photos.framework */; };
 		5AF247931F9998D700EBE716 /* AssetsLibrary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AF247921F9998D600EBE716 /* AssetsLibrary.framework */; };
 		5AF247941F99997300EBE716 /* AlbumPickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AF247691F9993BF00EBE716 /* AlbumPickerController.m */; };
@@ -294,6 +295,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5AEDB1531F99B9AC007043E6 /* SVProgressHUD.bundle in Resources */,
 				5A17A8531F998D1D0025B4C5 /* LaunchScreen.storyboard in Resources */,
 				5A17A8501F998D1D0025B4C5 /* Assets.xcassets in Resources */,
 				5A17A84E1F998D1D0025B4C5 /* Main.storyboard in Resources */,
